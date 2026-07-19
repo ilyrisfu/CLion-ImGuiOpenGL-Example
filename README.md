@@ -9,6 +9,6 @@ This repository is free to use
 - More information can be found here: [CLion-DLL-Example/ReadMe](https://github.com/SleepyFox-YT/CLion-DLL-Example/blob/main/README.MD)
 
 ## Discord Server
-<a href="https://discord.gg/wVzEkJqzvC"><img src="https://invidget.switchblade.xyz/wVzEkJqzvC" alt="https://discord.gg/wVzEkJqzvC"/></a>
+<a href="https://discord.gg/JMsCcJSexM"><img src="https://invidget.switchblade.xyz/JMsCcJSexM" alt="https://discord.gg/JMsCcJSexM"/></a>
 
 ###### Signed by SleepyFox.
