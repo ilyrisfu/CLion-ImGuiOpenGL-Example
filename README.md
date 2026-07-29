@@ -11,4 +11,4 @@ This repository is free to use
 ## Discord Server
 <a href="https://discord.gg/ilyr"><img src="https://invidget.switchblade.xyz/ilyr" alt="https://discord.gg/ilyr"/></a>
 
-###### Signed by SleepyFox.
+###### Signed by ilyrisfu.
